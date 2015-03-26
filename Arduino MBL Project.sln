@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Arduino MBL Project", "WindowsApplication2\Arduino MBL Project.vbproj", "{A606363B-4B03-43B9-BEDD-5864E5C98FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		ddd|Any CPU = ddd|Any CPU
+		ddd|x86 = ddd|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A606363B-4B03-43B9-BEDD-5864E5C98FEA}.ddd|Any CPU.ActiveCfg = ddd|Any CPU
+		{A606363B-4B03-43B9-BEDD-5864E5C98FEA}.ddd|Any CPU.Build.0 = ddd|Any CPU
+		{A606363B-4B03-43B9-BEDD-5864E5C98FEA}.ddd|Any CPU.Deploy.0 = ddd|Any CPU
+		{A606363B-4B03-43B9-BEDD-5864E5C98FEA}.ddd|x86.ActiveCfg = ddd|x86
+		{A606363B-4B03-43B9-BEDD-5864E5C98FEA}.ddd|x86.Build.0 = ddd|x86
+		{A606363B-4B03-43B9-BEDD-5864E5C98FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A606363B-4B03-43B9-BEDD-5864E5C98FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A606363B-4B03-43B9-BEDD-5864E5C98FEA}.Debug|x86.ActiveCfg = Debug|x86
+		{A606363B-4B03-43B9-BEDD-5864E5C98FEA}.Debug|x86.Build.0 = Debug|x86
+		{A606363B-4B03-43B9-BEDD-5864E5C98FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A606363B-4B03-43B9-BEDD-5864E5C98FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A606363B-4B03-43B9-BEDD-5864E5C98FEA}.Release|x86.ActiveCfg = Release|x86
+		{A606363B-4B03-43B9-BEDD-5864E5C98FEA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://smartbox.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WindowsApplication2\\Arduino\u0020MBL\u0020Project.vbproj
+		SccProjectName1 = WindowsApplication2
+		SccLocalPath1 = WindowsApplication2
+	EndGlobalSection
+EndGlobal
