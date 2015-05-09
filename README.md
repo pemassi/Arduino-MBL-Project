@@ -3,8 +3,7 @@
 Communication with Arduino by Serial Port <br>
 아두이노와 시리얼 통신(USB)을 통해 데이터를 통신하고 기록하는 프로그램 입니다.
 <br>
-# 제작 언어
-VB.net
+언어 : VB.net
 <br>
 <br>
 <br>
